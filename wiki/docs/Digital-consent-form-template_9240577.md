@@ -211,8 +211,3 @@ applicable\]
 ### 💡 Example
 
 [Informed Consent Form_EN_V5.pdf](images/9240577/9338881.pdf)
-
-### Attachments
-
-- [Informed Consent Form_EN_V5.pdf](images/9240577/9338881.pdf)
-

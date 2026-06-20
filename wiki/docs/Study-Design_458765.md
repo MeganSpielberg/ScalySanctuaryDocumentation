@@ -164,11 +164,3 @@ analysis step uses a one-way ANOVA rather than a 2×2 ANOVA.*
 - **Design guidance** results contribute to understanding the
   cost-benefit tradeoff of increasing interactivity complexity in
   educational software.
-
-### Attachments
-
-- [image-20260522-114134.png](images/458765/65747.png)
-- [image-20260522-114647.png](images/458765/295183.png)
-- [image-20260522-121049.png](images/458765/1310900.png)
-- [image-20260522-121113.png](images/458765/1572881.png)
-

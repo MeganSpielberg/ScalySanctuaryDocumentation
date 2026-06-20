@@ -57,9 +57,3 @@ any time, for any reason, without any negative consequences.
 
 - If there are any complaints about this study, please contact:
   [w.boendermaker@fontys.nl](mailto:w.boendermaker@fontys.nl)
-
-### Attachments
-
-- [Informed Consent Form_V4_EN.pdf](images/786433/1343512.pdf)
-- [Informed Consent Form_V4_EN.pdf](images/786433/262377.pdf)
-

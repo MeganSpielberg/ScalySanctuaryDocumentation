@@ -83,14 +83,3 @@ The collected data can be used for later analysis of knowledge retention
 and engagement. Combining quantitative and qualitative observations
 provided a more complete understanding of participant experiences during
 the experiment.
-
-## Attachments
-
-- [image-20260522-115258.png](images/393217/720942.png)
-- [image-20260522-115339.png](images/393217/491558.png)
-- [image-20260522-115411.png](images/393217/197349.png)
-- [image-20260522-115411.png](images/393217/1703948.png)
-- [image-20260529-091757.png](images/393217/7241729.png)
-- [image-20260529-091826.png](images/393217/7274497.png)
-- [study_procedure-20260529-091948.png](images/393217/7077890.png)
-

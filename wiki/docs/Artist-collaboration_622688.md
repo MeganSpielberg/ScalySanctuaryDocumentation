@@ -87,20 +87,3 @@ personalities and tone of the story, so we decided to include them in
 the prototype.
 
 ![5bc791b2-1d28-4dd4-bfa3-db80c8fc7982.png](images/622688/1507343.png)![image-20260522-105827.png](images/622688/1638666.png)
-
-## Attachments
-
-- [image-20260522-105535.png](images/622688/1540109.png)
-- [image-20260522-105615.png](images/622688/1572871.png)
-- [image-20260522-105621.png](images/622688/458803.png)
-- [ff63602a-9732-4bd9-9d6d-07c1903a515c.png](images/622688/1081359.png)
-- [image-20260522-105657.png](images/622688/1179664.png)
-- [image-20260522-105724.png](images/622688/1474569.png)
-- [image-20260522-105733.png](images/622688/753682.png)
-- [image-20260522-105743.png](images/622688/1409048.png)
-- [image-20260522-105752.png](images/622688/1441804.png)
-- [image-20260522-105808.png](images/622688/1409054.png)
-- [image-20260522-105819.png](images/622688/1376284.png)
-- [image-20260522-105827.png](images/622688/1638666.png)
-- [5bc791b2-1d28-4dd4-bfa3-db80c8fc7982.png](images/622688/1507343.png)
-

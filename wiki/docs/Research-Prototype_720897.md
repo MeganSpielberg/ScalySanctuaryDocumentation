@@ -79,11 +79,3 @@ contextualise the caretaking gameplay in a full implementation.
 ## 🎮 The General Game GDD
 
 [Scaly Sanctuary GDD V2.pdf](images/720897/4685825.pdf)
-
-## Attachments
-
-- [image-20260522-115213.png](images/720897/1277988.png)
-- [image-20260522-115230.png](images/720897/1015825.png)
-- [32c274f1-e1a4-4090-8df1-71138c358c89.png](images/720897/2719751.png)
-- [Scaly Sanctuary GDD V2.pdf](images/720897/4685825.pdf)
-
