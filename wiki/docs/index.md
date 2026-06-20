@@ -1,7 +1,6 @@
 # Scaly Sanctuary Research and Project Documentation
 
-- **Name:** Megan Spielberg
-- **Created by:** 712020:d62d9a98-e90c-4a95-b626-3a3f5632362d (May 22, 2026)
+- **Created by:** Megan Spielberg
 
 ## Available Pages
 
