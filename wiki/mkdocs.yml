@@ -1,4 +1,5 @@
 site_name: Scaly Sanctuary Research and Project Documentation
+site_url: https://meganspielberg.github.io/ScalySanctuaryDocumentation/
 
 theme:
   name: ivory
