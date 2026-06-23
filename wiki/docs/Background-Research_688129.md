@@ -251,12 +251,12 @@ primary ways to measure the learning effect of a serious game:
 
 The most common way to empirically measure learning gains is through a
 quasi-experimental design involving a control group and an experimental
-group (Diaz and Lo˜nez 2024).
+group (Diaz and López 2024).
 
 | Method | Description |
 |----|----|
 | Pre-tests and Post-tests | These are typically administered at the beginning and the end of the gaming experience to determine the progression of student learning (Bakkali Yedri, Lotfi, and Bouhorma 2018; Din, Baig, and Khan 2023). |
-| Effect Size Calculation | Researchers often use statistics like Hedges’ g or Cohen’s d to determine the magnitude of the learning impact. For instance, a value of 0.8 is generally considered a large effect size, while 0.5 is medium (Diaz and Lo˜nez 2024). |
+| Effect Size Calculation | Researchers often use statistics like Hedges’ g or Cohen’s d to determine the magnitude of the learning impact. For instance, a value of 0.8 is generally considered a large effect size, while 0.5 is medium (Diaz and López 2024). |
 | Standardized Achievement Tests | Comparing game results against national or state standards (such as the NAEP) can provide a benchmark for how the game impacts proficiency in subjects like mathematics or science (Conmy 2023). |
 
 #### 📋 Integrated Assessment Types
@@ -291,7 +291,7 @@ Yedri, Lotfi, and Bouhorma 2018).
 | Redundant faults | Making the same error multiple times, which can indicate areas of difficulty. |
 | Knowledge retention | Measuring concepts remembered over a longer period after the game has concluded. |
 
-(Bakkali Yedri, Lotfi, and Bouhorma 2018; Diaz and Lo˜nez 2024; Conmy
+(Bakkali Yedri, Lotfi, and Bouhorma 2018; Diaz and López 2024; Conmy
 2023)
 
 #### 🖼️ Structured Frameworks

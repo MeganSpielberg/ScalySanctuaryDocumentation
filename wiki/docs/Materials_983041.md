@@ -1,5 +1,9 @@
 # Resources
 
+General-purpose tools used throughout the project, outside of the
+engine and statistics software covered under Tools ([Godot](Godot_851969.md),
+[SPSS](SPSS_884737.md), [Trello](1245212.md)).
+
 | Tool/Resource | Purpose |
 |----|----|
 | Book: DISCOVERING STATISTICS USING IBM SPSS STATISTICS | Statistical analysis guide |

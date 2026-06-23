@@ -72,7 +72,7 @@ Deater-Deckard, K., Chang, M., & Evans, M. E. (2013). *Engagement states
 and learning from educational games*. *New Directions for Child and
 Adolescent Development*. Abstract only.
 
-Diaz, A., & Lo˜nez, H. (2024). “A Meta-Analysis on the Effectiveness of
+Diaz, A., & López, H. (2024). “A Meta-Analysis on the Effectiveness of
 Gamification on Student Learning Achievement”. In: *International
 Journal of Education in Mathematics, Science and Technology* 12, pp.
 1236–1253. doi: 10.46328/ijemst.4185

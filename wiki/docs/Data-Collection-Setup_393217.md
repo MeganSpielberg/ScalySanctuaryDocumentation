@@ -19,7 +19,7 @@ consistent testing quality.
 Participants were first welcomed and given a short introduction to the
 study. After agreeing to participate, they were assigned to one of the
 testing conditions. The experiment included multiple stages, including
-introduction, a knowledge questiionnair, interaction with the assigned
+introduction, a knowledge questionnaire, interaction with the assigned
 system, task execution, and completion of a questionnaire for
 qualitative feedback.
 
