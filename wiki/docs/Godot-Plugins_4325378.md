@@ -1,7 +1,5 @@
 # Godot Plugins
 
-*Created by Megan Spielberg, last modified on Jun 01, 2026*
-
 Plugins made by abstracting functionality implemented and used in the
 Scaly Sanctuary research prototype.
 

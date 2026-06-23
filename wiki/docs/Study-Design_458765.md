@@ -1,7 +1,5 @@
 # Study Design
 
-*Created by Megan Spielberg, last modified on May 24, 2026*
-
 > ℹ️ **Note:** Author: Megan and Valentino
 
 ## 💡 Introduction & Research Objectives

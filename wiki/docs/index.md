@@ -50,8 +50,6 @@
 
       - [Devlog: Research Data Logging System](3735560.md)
 
-      - [Devlogs TODOs](Devlogs-TODOs_4554759.md)
-
     - [Tools](Tools_458755.md)
       - [Godot](Godot_851969.md)
 

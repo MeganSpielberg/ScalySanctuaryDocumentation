@@ -1,7 +1,5 @@
 # Ethical Considerations
 
-*Created by Megan Spielberg, last modified on May 25, 2026*
-
 Original Printed Version
 [Informed Consent Form_V4_EN.pdf](images/786433/262377.pdf)
 

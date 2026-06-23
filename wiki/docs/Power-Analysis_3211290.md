@@ -1,6 +1,6 @@
 # Power Analysis
 
-*Created by Megan Spielberg, last modified on May 25, 2026*
+> ℹ️ **Note:** Author: Valentino and Megan
 
 ## 📝 Introduction
 

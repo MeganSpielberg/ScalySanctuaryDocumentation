@@ -1,6 +1,6 @@
 # Research Prototype
 
-*Created by Megan Spielberg, last modified on May 26, 2026*
+> ℹ️ **Note:** Author: Valentino and Megan
 
 ## 🐍 Scaly Sanctuary Prototype
 

@@ -1,7 +1,5 @@
 # Background Research
 
-*Created by Megan Spielberg, last modified on May 22, 2026*
-
 > ℹ️ **Note:** Author: Megan and Valentino
 
 ### 🎲 The Project

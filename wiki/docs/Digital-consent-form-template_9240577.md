@@ -1,7 +1,5 @@
 # Digital consent form template
 
-*Created by Megan Spielberg on Jun 02, 2026*
-
 > ℹ️ **Note:** You can use this template by filling out the information. Avoid using
 > bullet points in the actual consent form. See example at the bottom.
 

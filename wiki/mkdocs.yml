@@ -17,15 +17,16 @@ nav:
         - Background Research: Background-Research_688129.md
         - Sources: Sources_720915.md
       - Study Design: Study-Design_458765.md
+      - Test Participant Profile: Test-participant-profile_19365889.md
       - Research Prototype: Research-Prototype_720897.md
       - Playtest Results: Playtest-Results_3080195.md
       - Power Analysis: Power-Analysis_3211290.md
       - Data Collection Setup: Data-Collection-Setup_393217.md
+      - Night of the Nerds: Night-of-the-Nerds_19202049.md
       - Data Analysis: Data-Analysis_950273.md
       - Ethical Considerations: Ethical-Considerations_786433.md
       - Artist Collaboration: Artist-collaboration_622688.md
       - Devlogs:
-        - Devlogs: Devlogs_262345.md
         - Audio Management: 1409031.md
         - Game State and Flow Management: 163851.md
         - Tutorial System: 917507.md
@@ -38,15 +39,15 @@ nav:
         - LLM Host Failsafe: 3899400.md
         - LLM Integration: 6291458.md
         - Research Data Logging System: 3735560.md
-        - Devlogs TODOs: Devlogs-TODOs_4554759.md
+        - Reptile Handling: 18874369.md
+        - Animated Gecko: 18939909.md
       - Tools:
-        - Tools: Tools_458755.md
         - Godot: Godot_851969.md
         - SPSS: SPSS_884737.md
         - Trello (Scrum): 1245212.md
       - Materials:
-        - Materials: Materials_1507353.md
-        - Materials (Resources): Materials_983041.md
+        - Resources: Materials_983041.md
         - Surveys: Surveys_589852.md
+        - Research Papers: Research-Papers_19791873.md
         - Godot Plugins: Godot-Plugins_4325378.md
         - Digital Consent Form Template: Digital-consent-form-template_9240577.md

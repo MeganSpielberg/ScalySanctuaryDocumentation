@@ -1,7 +1,5 @@
 # Data Collection Setup
 
-*Created by Megan Spielberg, last modified on May 29, 2026*
-
 > ℹ️ **Note:** Author: Megan and Valentino
 
 This document describes the experimental setup and data collection

@@ -1,6 +1,6 @@
 # Artist collaboration
 
-*Created by Megan Spielberg, last modified on May 25, 2026*
+> ℹ️ **Note:** Author: Megan
 
 ## 🌱 Initial Situation
 

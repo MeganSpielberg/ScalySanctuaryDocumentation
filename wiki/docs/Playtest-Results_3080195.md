@@ -1,6 +1,5 @@
 # Playtest Results
-
-*Created by Megan Spielberg, last modified on May 29, 2026*
+> ℹ️ **Note:** Author: Valentino and Megan
 
 > ℹ️ **Note:** Date: 03 Jan 2026
 

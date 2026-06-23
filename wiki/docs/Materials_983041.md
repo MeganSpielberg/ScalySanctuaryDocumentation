@@ -1,8 +1,4 @@
-# Materials
-
-*Created by Megan Spielberg, last modified on May 25, 2026*
-
-## 💡 Research Tools and Resources
+# Resources
 
 | Tool/Resource | Purpose |
 |----|----|
