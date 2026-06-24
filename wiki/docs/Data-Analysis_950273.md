@@ -2,7 +2,15 @@
 
 > ℹ️ **Note:** Author: Valentino
 
-## 📊 Analysis Presentation by Megan
+## 📊 Megan's Analysis (Control vs. Base Game vs. Hardcoded Vet)
+
+Megan and Valentino each wrote a separate research paper for the
+graduation project, analysing different condition pairings from the
+same data collection. The slides below are **Megan's own analysis**,
+comparing the Non-Game Control, Game/Base, and Game/Hardcoded-Vet
+conditions. This is a separate, self-contained analysis with its own
+sample size — the numbers in it will not match the rest of this page,
+which documents Valentino's analysis below.
 
 [Data Analysis Megan.pdf](images/950273/18645003.pdf)
 
@@ -10,14 +18,15 @@ Additional analysis document: [Data Analysis (1).pdf](images/950273/19333122.pdf
 
 ## 📄 Overview
 
-This document describes the statistical analyses conducted for the GBL
-study examining knowledge acquisition and engagement across three
-instructional conditions: the Game / Non-LLM Interactive Condition
-(Version 1), the Game / LLM-Interactive Condition (Version 3), and the
-Non-Game Control Condition (Version 4). For each analysis, the
-rationale, SPSS procedure, and relevant output are described.
+This document describes the statistical analyses conducted for
+**Valentino's** research paper, examining knowledge acquisition and
+engagement across three instructional conditions: the Game / Non-LLM
+Interactive Condition (Version 1), the Game / LLM-Interactive Condition
+(Version 3), and the Non-Game Control Condition (Version 4). For each
+analysis, the rationale, SPSS procedure, and relevant output are
+described.
 
-> ℹ️ **Note:** All analyses were conducted in IBM SPSS Statistics following
+> ℹ️ **Note:** All analyses were conducted in [IBM SPSS Statistics](SPSS_884737.md) following
 > outlier exclusion. The final analytic sample consisted of 70
 > participants: Version 1 (n = 23), Version 3 (n = 20), and Version 4
 > (n = 27). Version 2 was excluded from all analyses.

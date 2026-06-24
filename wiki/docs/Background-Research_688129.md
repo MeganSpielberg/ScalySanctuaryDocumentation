@@ -68,58 +68,41 @@ Several overlapping categories exist within this field:
 
 Casual games are mainly defined by their accessibility, simple
 mechanics, and flexible time commitment rather than by a single feature.
-Multiple sources agree on core characteristics. Gajadhar et al. 2010 and
-Reis 2013 identify easy access, simple rules, and simple interfaces as
-defining traits. Johnson 2018 lists six design traits: appealing themes,
-ease of access, ease of learning, minimal required expertise, fast
-rewards, and temporal flexibility. Juul 2012 argues that casual games
-are designed to fit into players’ lives through quick play sessions,
-rather than forcing players to change their schedules. Evidence also
-shows that the definition is complex. Kuittinen et al. 2007 notes that
-“casual” is ambiguous. It can describe the player, the game, the playing
-style, business models, or accessibility. This can cause confusion.
-Chess 2020 describes “casual game” as an industry catch-all term, often
-used dismissively and covering Match-3, puzzle, and hidden object games.
-The literature suggests that casual games focus on low barriers to entry
-and flexible engagement, rather than on complexity or long-term demands.
+Multiple sources agree on core characteristics. **Gajadhar et al. 2010**
+and **Reis 2013** identify easy access, simple rules, and simple
+interfaces as defining traits. **Johnson 2018** lists six design traits:
+appealing themes, ease of access, ease of learning, minimal required
+expertise, fast rewards, and temporal flexibility. **Juul 2012**, a book
+on the history and design of casual games, argues that casual games are
+designed to fit into players’ lives through quick play sessions, rather
+than forcing players to change their schedules. Evidence also shows that
+the definition is complex. **Kuittinen et al. 2007** notes that “casual”
+is ambiguous. It can describe the player, the game, the playing style,
+business models, or accessibility. This can cause confusion. **Chess
+2020** describes “casual game” as an industry catch-all term, often used
+dismissively and covering Match-3, puzzle, and hidden object games. The
+literature suggests that casual games focus on low barriers to entry and
+flexible engagement, rather than on complexity or long-term demands.
 Casual games may reduce stress and improve mood, but evidence for
 cognitive benefits is limited. The strongest evidence relates to mental
-health. Pine et al. 2020 conducted a systematic review of 13 studies on
-casual games’ effects on anxiety, depression, stress, and low mood and
-found “promising effects.” Stanhope, Owens, and Elliott 2015 reported
-that casual gaming improved positive mood more than guided relaxation in
-a sample of 65 participants. However, Squire et al. 2023 found “little
-support for the cognitive benefits of playing casual games, except for
-the elderly or those with dementia,” although they did find social and
-emotional benefits when games are “played mindfully, and within robust
-social contexts.”
+health. **Pine et al. 2020** conducted a systematic review of 13 studies
+on casual games’ effects on anxiety, depression, stress, and low mood
+and found “promising effects.” **Stanhope, Owens, and Elliott 2015**
+reported that casual gaming improved positive mood more than guided
+relaxation in a sample of 65 participants. However, **Squire et al.
+2023** found “little support for the cognitive benefits of playing
+casual games, except for the elderly or those with dementia,” although
+they did find social and emotional benefits when games are “played
+mindfully, and within robust social contexts.”
 
 ### 🧠 Psychological and Cognitive Effects
 
-Research demonstrates mixed but generally positive outcomes regarding
-casual games and mental well-being.
-
-Studies indicate:
-
-- reductions in stress and anxiety,
-
-- improvements in mood,
-
-- enhanced relaxation,
-
-- and social-emotional benefits.
-
-> ℹ️ **Note:** Stanhope, Owens, and Elliott (2015) found that casual gaming improved
-> positive mood more effectively than guided relaxation in a study
-> involving 65 participants.
-
-However, evidence for broader cognitive benefits remains limited.
-Lifespan research found little support for significant cognitive
-enhancement except among elderly participants or individuals with
-dementia.
-
-This distinction is important for Scaly Sanctuary, which aims not only
-to entertain but also to facilitate measurable educational outcomes.
+Taken together, this body of research draws a clear line: casual games
+show consistent value for mood and stress regulation, but the evidence
+for broader cognitive enhancement is thin outside of older or
+cognitively vulnerable populations. This distinction is important for
+Scaly Sanctuary, which aims not only to entertain but also to facilitate
+measurable educational outcomes.
 
 ### 🎓 Serious Games
 
@@ -269,7 +252,7 @@ capture the full learning timeline (Bakkali Yedri, Lotfi, and Bouhorma
 |----|----|
 | Diagnostic Assessment | Used before the game starts to assess the learner’s baseline knowledge. |
 | Formative Assessment | This occurs during the game and provides immediate feedback to the learner. It allows for adjustments in real-time and supports the learning process through prompts or ”NPC” guidance. |
-| Summative Assessment | This measures the learner’s final achievements at the end of the experience through exams, final scores, or portfolios. 5 |
+| Summative Assessment | This measures the learner’s final achievements at the end of the experience through exams, final scores, or portfolios. |
 | Integrative/Authentic Assessment | Evaluates how well a student can link scientific knowledge to real-world actions or policy. |
 
 (Bakkali Yedri, Lotfi, and Bouhorma 2018)
@@ -328,7 +311,7 @@ People learn to care for pets, particularly reptiles, through a
 combination of professional consultation, digital communities, the pet
 industry, and public health campaigns. While traditional pet owners
 (dogs and cats) rely heavily on veterinarians (utilized by 67% of
-owners) and groomers, the learning process for 6 reptile keepers often
+owners) and groomers, the learning process for reptile keepers often
 involves specialized behaviorists and enthusiasts (TGM Research 2023;
 Azevedo et al. 2021).
 
@@ -366,8 +349,9 @@ than peer-reviewed science (Azevedo et al. 2021; Torrini 2025).
 
 #### 🛍️ The Pet Industry and Retailers
 
-Many owners receive their initial care instructions from pet shops,
-where 65% of surveyed reptiles are sourced. However, there is a noted
+Many owners receive their initial care instructions from pet shops: one
+survey found that 65% of reptile owners had purchased their animal from
+a pet shop (Azevedo et al. 2021). However, there is a noted
 challenge where the exotic pet industry may promote reptiles as
 ”low-maintenance” pets, which can lead to a gap between an owner’s
 perceived knowledge and their actual ability to meet the animal’s
@@ -381,7 +365,7 @@ teaching owners about risks, such as the transmission of Salmonella
 (Corrente et al. 2017). Learning in this area focuses on:
 
 - Hygiene practices: The importance of handwashing after handling
-  animals or cleaning habitats. 7
+  animals or cleaning habitats.
 
 - Habitat maintenance: Ensuring drinking water is replaced regularly to
   prevent infection.
@@ -418,9 +402,12 @@ Modern veterinary AI tools include:
 
 These systems support:
 
-- SOAP note generation,
+- SOAP note generation (SOAP = Subjective, Objective, Assessment, Plan —
+  the standard structure vets use to write up a patient visit),
 
-- ICD-11 coding,
+- ICD-11 coding (tagging a diagnosis with its code from the WHO's
+  International Classification of Diseases, 11th edition, so cases can
+  be tracked and compared consistently),
 
 - diagnostic imaging,
 
@@ -484,19 +471,15 @@ Players can consult the AI regarding:
 - or species-specific care.
 
 Importantly, the AI does not simply provide direct answers. Instead, it
-encourages reflection and inquiry.
+encourages reflection and inquiry. For example:
 
-For example:
-
-- if a reptile becomes lethargic,
-
-- the player may consult the AI,
-
-- which then explains possible causes,
-
-- discusses husbandry factors,
-
-- and guides the player toward conceptual understanding.
+```mermaid
+flowchart LR
+    A[Reptile becomes lethargic] --> B[Player consults the AI vet]
+    B --> C[AI explains possible causes]
+    C --> D[AI discusses husbandry factors]
+    D --> E[Player reaches conceptual understanding]
+```
 
 This creates a scaffolded learning experience emphasizing:
 

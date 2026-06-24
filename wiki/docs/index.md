@@ -2,76 +2,51 @@
 
 - **Created by:** Megan Spielberg
 
-## Available Pages
+## Overview
 
-- [Overview](index.md)
-  - [Master of Applied IT Graduation Project Documentation and Devlogs](Master-of-Applied-IT-Graduation-Project-Documentation-and-Devlogs_295008.md)
-    - [Background Research](Background-Research_688129.md)
-      - [Sources](Sources_720915.md)
+This site documents the research, design, and development of *Scaly
+Sanctuary*, a Master of Applied IT graduation project investigating how
+game structure and interactivity affect learning and engagement in a
+digital reptile-caretaking experience. Below is a short guide to what
+you'll find in each section; the sidebar lists every page individually.
 
-    - [Study Design](Study-Design_458765.md)
+### 📖 Master of Applied IT Graduation Project
 
-    - [Test Participant Profile](Test-participant-profile_19365889.md)
+The [Introduction](Master-of-Applied-IT-Graduation-Project-Documentation-and-Devlogs_295008.md)
+page frames the overall research question. From there, the
+documentation follows the study from concept to conclusion:
+[Background Research](Background-Research_688129.md) (with its
+[Sources](Sources_720915.md)) lays the theoretical groundwork;
+[Study Design](Study-Design_458765.md) and the
+[Test Participant Profile](Test-participant-profile_19365889.md) define
+the experiment; [Research Prototype](Research-Prototype_720897.md) and
+[Playtest Results](Playtest-Results_3080195.md) cover the build itself;
+and [Power Analysis](Power-Analysis_3211290.md),
+[Data Collection Setup](Data-Collection-Setup_393217.md),
+[Night of the Nerds](Night-of-the-Nerds_19202049.md), and
+[Data Analysis](Data-Analysis_950273.md) walk through running the study
+and analyzing the results.
+[Ethical Considerations](Ethical-Considerations_786433.md) and
+[Artist collaboration](Artist-collaboration_622688.md) cover the
+project's ethics approval and visual development.
 
-    - [Research Prototype](Research-Prototype_720897.md)
+### 🛠️ Devlogs
 
-    - [Playtest Results](Playtest-Results_3080195.md)
+Development logs written as individual game systems (audio, dialogue,
+animation, LLM integration, and more) were built. Start at
+[Devlog: Audio Management](1409031.md), or browse the full list of
+fourteen devlogs in the sidebar.
 
-    - [Power Analysis](Power-Analysis_3211290.md)
+### 🧰 Tools
 
-    - [Data Collection Setup](Data-Collection-Setup_393217.md)
+Why specific software was chosen for the project, and how it was used:
+[Godot](Godot_851969.md) (game engine), [SPSS](SPSS_884737.md)
+(statistical analysis), and [Trello](1245212.md) (Scrum board).
 
-    - [Night of the Nerds](Night-of-the-Nerds_19202049.md)
+### 📂 Materials
 
-    - [Data Analysis](Data-Analysis_950273.md)
-
-    - [Ethical Considerations](Ethical-Considerations_786433.md)
-
-    - [Artist collaboration](Artist-collaboration_622688.md)
-
-    - **Devlogs**
-      - [Devlog: Audio Management](1409031.md)
-
-      - [Devlog: Game State and Flow Management](163851.md)
-
-      - [Devlog: Tutorial System](917507.md)
-
-      - [Devlog: Localization](852012.md)
-
-      - [Devlog: Soil mixing mini-game](65712.md)
-
-      - [Devlog: Terrarium elements](1212439.md)
-
-      - [Devlog: Animal State Machine](884764.md)
-
-      - [Devlog: Crafting and Feeding](2916360.md)
-
-      - [Devlog: RPG Style Dialogue System](2719759.md)
-
-      - [Devlog: LLM Host Failsafe](3899400.md)
-
-      - [Devlog: LLM integration](6291458.md)
-
-      - [Devlog: Research Data Logging System](3735560.md)
-
-      - [Devlog: Reptile Handling](18874369.md)
-
-      - [Devlog: Animated Gecko](18939909.md)
-
-    - **Tools**
-      - [Godot](Godot_851969.md)
-
-      - [SPSS](SPSS_884737.md)
-
-      - [Trello (Scrum)](1245212.md)
-
-    - **Materials**
-      - [Resources](Materials_983041.md)
-
-      - [Surveys](Surveys_589852.md)
-
-      - [Research Papers](Research-Papers_19791873.md)
-
-      - [Godot Plugins](Godot-Plugins_4325378.md)
-
-      - [Digital consent form template](Digital-consent-form-template_9240577.md)
+Source files referenced elsewhere in the documentation:
+[Resources](Materials_983041.md), [Surveys](Surveys_589852.md),
+[Research Papers](Research-Papers_19791873.md),
+[Godot Plugins](Godot-Plugins_4325378.md), and the
+[Digital consent form template](Digital-consent-form-template_9240577.md).

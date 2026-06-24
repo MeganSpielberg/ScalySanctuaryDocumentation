@@ -16,7 +16,7 @@ restructures them around the overarching question:
 acquisition and user engagement in a digital reptile caretaking
 experience?***
 
-One condition present in Spielberg's original 2×2 factorial — Non-Game +
+One condition present in Megan's original 2×2 factorial — Non-Game +
 Interactive (real-animal handling) — has been deliberately excluded from
 this combined design. As shown in the conditions diagram below, this
 cell was removed because it is not feasible to standardise a live-animal
@@ -142,7 +142,13 @@ analysis step uses a one-way ANOVA rather than a 2×2 ANOVA.*
 6.  Post-Survey — equivalent knowledge quiz + engagement questionnaire
     (adapted Generalised GEQ).
 
-7.  Statistical Analysis — TBD (Probably ANOVAs)
+7.  Statistical Analysis — A mixed factorial repeated-measures ANOVA
+    tested knowledge gain (pre- vs. post-test, by condition), a one-way
+    ANOVA tested engagement scores across conditions, and Pearson
+    correlations tested the relationship between knowledge gain and
+    engagement, and between LLM interaction frequency and knowledge
+    gain. Full procedure and results are documented on the [Data
+    Analysis](Data-Analysis_950273.md) page.
 
 ## 🚀 Scientific Contribution
 

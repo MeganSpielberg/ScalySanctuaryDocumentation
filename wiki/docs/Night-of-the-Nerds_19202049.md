@@ -16,9 +16,9 @@ through the ISSD, and the day before the event, Valentino and I went
 through every machine individually - logging into eduroam, running
 Windows updates, installing Chrome, and verifying the game ran correctly
 on each station. Both of our personal laptops were kept on standby as
-backup. A friend already familiar with the project was recruited to help
-facilitate on the day; they received a full briefing beforehand and
-brought their own laptop as an additional fallback, bringing the total
+backup. Andy, a friend already familiar with the project, was recruited to help
+facilitate on the day; he received a full briefing beforehand and
+brought his own laptop as an additional fallback, bringing the total
 backup capacity to three machines.
 
 ## 🖥️ Setup
